@@ -12,17 +12,14 @@
 
         <activity
             android:name=".QuestionsActivity"
-            android:screenOrientation="portrait"
             android:theme="@style/NoActionBar"></activity>
 
 
         <activity
             android:name=".ResultActivity"
-            android:screenOrientation="portrait"
             android:theme="@style/NoActionBar"></activity>
         <activity
             android:name=".MainActivity"
-            android:screenOrientation="portrait"
             android:theme="@style/NoActionBar"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
