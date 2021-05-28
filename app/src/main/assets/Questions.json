@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "questionText": "Вопрос 1",
+      "answers": [
+        {
+          "answerText": "Ответ 1 (правильный)"
+        },
+        {
+          "answerText": "Ответ 2"
+        },
+        {
+          "answerText": "Ответ 3"
+        },
+        {
+          "answerText": "Ответ 4"
+        }
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Вопрос 2",
+      "answers": [
+        {
+          "answerText": "Ответ 1"
+        },
+        {
+          "answerText": "Ответ 2 (правильный)"
+        },
+        {
+          "answerText": "Ответ 3"
+        },
+        {
+          "answerText": "Ответ 4"
+        }
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Вопрос 3",
+      "answers": [
+        {
+          "answerText": "Ответ 1"
+        },
+        {
+          "answerText": "Ответ 2"
+        },
+        {
+          "answerText": "Ответ 3"
+        },
+        {
+          "answerText": "Ответ 4 (правильный)"
+        }
+      ],
+      "correctAnswerIndex": 3
+    }
+  ]
+}
